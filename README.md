@@ -2,7 +2,7 @@
 
 Welcome to the **Laser Pulse Simulator**, a web-based interactive tool for visualizing the formation of a laser pulse from its constituent frequencies. This simulator qualitatively demonstrates how the spectral amplitude and phase of continuous waves determine the final temporal shape and intensity of a pulse.
 
-[![Laser Pulse Simulator Screenshot](Screenshot.png)](https://visuphy.github.io/LaserPulseSimulator/visualphase.html)
+[![Laser Pulse Simulator Screenshot](Screenshot.webp)](https://visuphy.github.io/LaserPulseSimulator/visualphase.html)
 
 *Screenshot of the simulator interface, showing the spectral and temporal plots.*
 
